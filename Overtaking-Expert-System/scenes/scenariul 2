@@ -1,0 +1,48 @@
+cadrul 1: - da - v
+  detectie tramvai in fata
+  detectie linie discontinua
+  detecteaza spatiu liber //
+cadrul 2: - da - v
+  detectie tramvai in fata
+  detectie statie tramvai
+  detectie linie discontinua
+  detecteaza spatiu liber //
+cadrul 3: - nu - v
+  detectie tramvai in fata
+  detectie statie tramvai
+  detectie semnal dreapta
+  detectie linie discontinua
+cadrul 4: -nu - v
+  detectie tramvai in fata
+  detectie statie tramvai
+  detectie semnal dreapta
+  detectie linie discontinua
+cadrul 5: -nu - v
+  detectie tramvai in fata
+  detectie statie tramvai fara refugiu
+  detectie semnal dreapta
+  detectie linie discontinua
+cadrul 6: -nu - v
+  detectie tramvai in fata
+  detectie statie tramvai
+  detectie semnal dreapta
+  detectie linie discontinua
+cadrul 7: -nu - v
+  detectie tramvai in fata
+  detectie statie tramvai
+  detectie semnal dreapta
+  detectie linie discontinua
+cadrul 8: -da - v
+  detectie tramvai in fata
+  detectie statie tramvai
+  detectie linie discontinua
+  detecteaza spatiu liber //
+cadrul 9: -da - v
+  detectie tramvai in fata
+  detectie statie tramvai
+  detectie linie discontinua
+  detecteaza spatiu liber //
+cadrul 10: -da - v
+  detectie tramvai in fata
+  detectie linie discontinua
+  detecteaza spatiu liber //

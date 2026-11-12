@@ -1,0 +1,35 @@
+cadrul 1: -nu - v
+  detectie curba 20m
+  detectie banda continua
+cadrul 2: -nu - v
+  detectie curba
+  detectie banda continua
+  detectie masina fata
+cadrul 3: -nu - v
+  detectie banda continua
+  detectie msina fata
+cadrul 4: -nu - v
+  detectie banda discontinua
+  detectie panta
+  detectie masina fata
+cadrul 5: -nu - v
+  detectie banda continua
+  detectie panta
+cadrul 6: -nu - v
+  detectie banda continua
+  detectie masina fata
+cadrul 7: -nu - v
+  detectie banda discontinua
+  detectie masina fata
+  detectie semnal stanga
+cadrul 8: -da - v
+  detectie banda discontinua
+  detectie masina dreapta
+  detectie tunel //
+cadrul 9: -da - v
+  detectie tunel //
+  detectie banda discontinua
+cadrul 10: -da - v
+  detectie tunel //
+  detectie banda discontinua
+  detectie masina fata

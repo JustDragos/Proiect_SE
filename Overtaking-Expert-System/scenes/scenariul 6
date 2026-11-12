@@ -1,0 +1,29 @@
+cadrul 1: -da - v
+  detectie trecere de pietoni (dist 30 m)
+  detectie banda discontinua
+cadrul 2: -nu - v
+  detectie trecere de pietoni
+  detectie banda continua
+cadrul 3: -nu - v
+  detectie trecere de pietoni spate
+  detectie depasire interzisa
+cadrul 4: -nu - v
+  detectie depasire interzisa
+  detectie banda continua
+cadrul 5: -nu - v
+  detectie banda continua
+cadrul 6: -da - v
+  detectie banda discontinua
+cadrul 7: -nu - v
+  detectie trecere la nivel cu cale ferata
+cadrul 8: -nu - v
+  detectie trecere la nivel cu cale ferata
+  detectie banda continua
+cadrul 9: -nu - v
+  detectie trecere la nivel cu cale ferata spate
+  detectie masina stanga
+  detectie banda discontinua
+cadrul 10: -da - v
+  detectie masina fata
+  detectie banda discontinua
+  detecteaza spatiu liber //

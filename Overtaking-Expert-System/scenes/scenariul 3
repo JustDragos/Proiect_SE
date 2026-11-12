@@ -1,0 +1,37 @@
+cadrul 1: -da - v
+  detectie intersectie la 50m in fata
+  detectie banda discontinua
+  detectie masina in spate la 40m
+cadrul 2: -nu - v
+  detectie intersectie la 10m in fata
+  detectie banda discontinua
+  detectie masina in spate la 40m
+  detectie semnal stanga masina spate
+cadrul 3: -nu - v
+  detectie intersectie drum stanga
+  detectie banda continua
+  detectie masina spate 10m in spate
+  detectie semnal stanga masina spate
+cadrul 4: -nu - v
+  detectie intersectie spate 10m
+  detectie banda continua
+cadrul 5: -da - v
+  detectie intersectie spate 50m
+  detectie banda discontinua
+cadrul 6: -da - v
+  detectie masina stanga 1m
+  detectie banda discontinua
+  detecteaza spatiu liber //
+cadrul 7: -da - v
+  detectie banda continua_discontinua
+  detectie motocicleta fata 10m
+  detectie semnal dreapta
+  detecteaza spatiu liber //
+cadrul 8: -da - v
+  detectie banda continua_discontinua
+  detectie motocicleta dreapta 1m
+  detecteaza spatiu liber //
+cadrul 9: -nu - v
+  detectie banda continua la 100m in fata
+cadrul 10: -nu - v
+  detectie banda continua

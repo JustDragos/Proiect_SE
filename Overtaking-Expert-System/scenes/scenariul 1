@@ -1,0 +1,34 @@
+cadrul 1: - nu - v
+    detecteaza drum cu banda discontinua
+    detecteaza ceata cu viz mica
+cadrul 2: - nu - v
+    detecteaza biciclist pe partea dreapta
+    detecteaza drum cu banda discontinua
+    detecteaza ceata cu viz mica
+cadrul 3: - nu - v
+    detecteaza biciclist pe partea dreapta
+    detecteaza drum cu banda continua
+    detecteaza ceata cu viz mica
+cadrul 4: - nu - v
+    detecteaza drum cu banda continua
+    detecteaza ceata cu viz mica
+cadrul 5: - da - v
+    detecteaza vehicul cu tractiune animala
+    detecteaza drum cu banda discontinua
+    detecteaza spatiu liber //
+cadrul 6: - nu - v
+    detecteaza vehicul cu tractiune animala
+    detecteaza drum cu banda discontinua
+    detecteaza masina pe partea stanga in fata a drumului
+cadrul 7: - da - v
+    detecteaza drum cu banda discontinua
+    detecteaza vehicul cu tractiune animala
+    detecteaza spatiu liber //
+cadrul 8: - da - v
+    detecteaza drum cu banda discontinua
+cadrul 9: - nu - v
+    detecteaza drum cu banda continua
+    detecteaza curba cu vizibilitate mica
+cadrul 10: - nu - v
+    detecteaza drum cu banda continua
+    detecteaza curba cu vizibilitate mica

@@ -1,0 +1,31 @@
+cadrul 1: -nu - v
+  detectie coloana fata
+  detectie banda discontinua
+  detectie drum denivelat
+cadrul 2: -nu - v
+  detectie coloana fata
+  detectie banda discontinua
+  detectie drum denivelat
+  detectie semnal dreapta
+cadrul 3: -da - v
+  detectie coloana dreapta
+  detectie banda discotinua
+cadrul 4: -nu - v
+  detectie coloana dreapta
+  detectie banda discontinua
+  detectie drum denivelat
+cadrul 5: -nu - v
+  detectie banda discontinua
+  detectie drum denivelat
+cadrul 6: -da - v
+  detectie banda discontinua
+cadrul 7: -nu - v
+  detectie banda discontinua
+  detectie sub_pod
+cadrul 8: -da - v
+  detectie banda discontinua
+cadrul 9: -da -v
+  detectie banda discontinua
+cadrul 10: -nu - v
+  detectie banda discontinua
+  detectie coloana in asteptare
